@@ -2,7 +2,7 @@
 title: "TIL: OUTER APPLY belongs in the FROM clause, not after WHERE"
 description: Reusing a SQL string fragment that already ends in WHERE makes it impossible to add joins to one of the queries.
 date: 2026-07-20
-authors: [ishan]
+authors: [lahiru]
 tags: [til, sql, databases, typescript]
 ---
 
